@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+up_optic/__init__.py
+up_optic/optic.py
+up_optic/plan.py
+up_optic.egg-info/PKG-INFO
+up_optic.egg-info/SOURCES.txt
+up_optic.egg-info/dependency_links.txt
+up_optic.egg-info/top_level.txt
