@@ -33,22 +33,13 @@ setup(name='up_optic',
       long_description_content_type="text/markdown",
       author='Davide Lusuardi',
       author_email='davide.lusuardi@studenti.unitn.it',
-      url='', # TODO
+      url='https://github.com/DavideLusuardi/up-optic',
       classifiers=['Development Status :: 1',
                    'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
                    'Programming Language :: Python :: 3',
                    'Topic :: Scientific/Engineering :: Artificial Intelligence'
                    ],
       packages=['up_optic'],
-    #   package_data={
-    #       "": ['fast_downward.py', 'downward/fast-downward.py',
-    #           'downward/README.md', 'downward/LICENSE.md',
-    #           'downward/builds/release/bin/*',
-    #           'downward/builds/release/bin/translate/*',
-    #           'downward/builds/release/bin/translate/pddl/*',
-    #           'downward/builds/release/bin/translate/pddl_parser/*',
-    #           'downward/driver/*', 'downward/driver/portfolios/*']
-    #   },
       package_data={
         "": ['optic.py']
       },
